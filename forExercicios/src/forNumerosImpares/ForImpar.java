@@ -17,6 +17,7 @@ public class ForImpar {
 			}
 		}
 
+		
 		sc.close();
 	}
 

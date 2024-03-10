@@ -28,6 +28,7 @@ public class Senha {
 		}
 		;
 
+		
 		sc.close();
 
 	}

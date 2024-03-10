@@ -15,6 +15,8 @@ public class fatorialFor {
 		}
 		
 		System.out.println(fat);
+		
+		
 		sc.close();
 
 	}

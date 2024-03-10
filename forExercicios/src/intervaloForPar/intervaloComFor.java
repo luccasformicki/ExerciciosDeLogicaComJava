@@ -27,6 +27,7 @@ public class intervaloComFor {
 		System.out.println(in + "in");
 		System.out.println(out + "out");
 		
+		
 		sc.close();
 
 	}

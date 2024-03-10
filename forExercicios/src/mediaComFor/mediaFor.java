@@ -24,7 +24,6 @@ public class mediaFor {
 		}
 		
 		
-		
 		sc.close();
 	}
 
